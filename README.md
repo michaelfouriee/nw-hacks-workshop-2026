@@ -1,7 +1,7 @@
-# NWHacks Workshop 2025 - Anonymous Q&A Platform
+# NWHacks Workshop 2026 - Anonymous Q&A Platform
 
 ## About
-This project was created for the NWHacks Workshop 2025. It's a simple, real-time Anonymous Q&A platform built with React and Firebase, demonstrating how to create a full-stack web application in a short amount of time.
+This project was created for the NWHacks Workshop 2026. It's a simple, real-time Anonymous Q&A platform built with React and Firebase, demonstrating how to create a full-stack web application in a short amount of time.
 
 ## Features
 - Real-time question posting and retrieval
@@ -29,7 +29,7 @@ This app is deployed using Firebase Hosting. To deploy your own version:
 5. Deploy to Firebase: `firebase deploy`
 
 ## Workshop Information
-This project is part of the NWHacks Workshop 2025, demonstrating rapid full-stack development using modern web technologies. It serves as a starting point for participants to understand React, Firebase integration, and real-time database operations.
+This project is part of the NWHacks Workshop 2026, demonstrating rapid full-stack development using modern web technologies. It serves as a starting point for participants to understand React, Firebase integration, and real-time database operations.
 
 ## License
 [MIT License](LICENSE)
